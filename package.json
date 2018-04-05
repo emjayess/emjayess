@@ -1,0 +1,18 @@
+{
+  "name": "emjayess",
+  "version": "0.0.1",
+  "description": "Matt J. Sorenson's contact info",
+  "main": "index.js",
+  "repository": "emjayess/emjayess",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "keywords": [
+    "person",
+    "contact",
+    "sorenson",
+    "geekmeetfm",
+  ],
+  "author": "Matt J. Sorenson <matt@sorensonbros.net>",
+  "license": "GPL-3.0"
+}

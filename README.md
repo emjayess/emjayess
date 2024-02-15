@@ -9,6 +9,3 @@ who shamelessly forked from "the wonderful [John K. Paul](http://github.com/john
 ```
 $ npm i emjayess
 ```
-
-### Also
-[![Contact me on Codementor](https://www.codementor.io/m-badges/emjayess/find-me-on-cm-g.svg)](https://www.codementor.io/@emjayess?refer=badge)
